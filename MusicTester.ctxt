@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MusicTester
+comment0.text=\n\ This\ class\ searches\ through\ a\ collection\ of\ music\ using\ the\ sequence\ search.\n\n\ @author\ Ruthie\ Dignan\n\ @version\ 03/02/21\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=void\ printSongs(Music[])
+comment3.params=s\ toFind
+comment3.target=void\ findTitle(Music[],\ java.lang.String)
+comment4.params=s\ toFind
+comment4.target=void\ findYear(Music[],\ int)
+comment5.params=s\ toFind
+comment5.target=void\ findArtist(Music[],\ java.lang.String)
+numComments=6
